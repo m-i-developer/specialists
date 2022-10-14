@@ -1,0 +1,18 @@
+@import './colors.scss';
+
+:export {
+  primary: $primary;
+
+  textPrimary: $text-primary;
+  textSecondary: $text-secondary;
+
+  lylacHover: $lylac-1;
+
+  tooltipBackground: $grey-11;
+
+  badgeBackground: $red-5;
+  badgeText: $white;
+
+  webRed: $red-2;
+  webWhite: $white;
+}
